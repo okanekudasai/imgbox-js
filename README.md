@@ -15,7 +15,7 @@ npm install imgbox-js
 ## Import
 
 ```ts
-import { imgbox } from 'imbox-js'
+import { imgbox } from 'imgbox-js'
 // or
 const imgbox = require('imgbox-js')
 ```
